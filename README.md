@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate JavaScript enthusiast from Bangladesh, currently based in Munich, Germany.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishrak-imam" alt="ishrak-imam" /> </p>
 
-- 🔭 I’m currently working on [InterNations](https://www.internations.org/)
+- 🔭 I’m currently working at [InterNations](https://www.internations.org/)
 
 - 💬 Ask me about **Anything related to JavaScript**
 
