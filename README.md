@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://twitter.com/ishrak_imam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ishrak_imam" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/ishrak-ibne-imam-823449ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ishrak-ibne-imam-823449ab" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/7088438/ishrak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7088438/ishrak" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/7088438/ishrak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7088438/ishrak" height="20" width="20" /></a>
 </p>
